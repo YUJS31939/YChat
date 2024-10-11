@@ -1,5 +1,0 @@
-创建新文件
-int main()
-{
-   cout << "sss" << endl;
-}
